@@ -19,6 +19,7 @@ Este repositório é uma wiki pessoal e colaborativa para profissionais de infra
 | `redes/` | Conceitos, comandos e testes de rede |
 | `scripts/` | Scripts úteis para automação |
 | `fluxos/` | Fluxogramas e procedimentos de atendimento |
+| `itsm/` | Boas práticas dentro das ferramentas de ITSM |
 | `boas-praticas/` | Padronizações e segurança |
 | `dicas-e-ferramentas/` | Ferramentas úteis, atalhos, produtividade |
 
